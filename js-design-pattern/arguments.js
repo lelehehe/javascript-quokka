@@ -3,8 +3,9 @@ function sum() {
     for(var i = 0; i < arguments.length; i++) {
         result += arguments[i];
     }
+    
     return result;
 }
 
-var data = sum(2, 3, 4);
+var data = sum(2, 3, 4, 4, 5, 12, 2);
 data;
