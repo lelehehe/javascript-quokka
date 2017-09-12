@@ -9,5 +9,6 @@ that's it!
 
 ## design pattern
 all samples in design pattern are from 
-https://app.pluralsight.com/library/courses/javascript-design-patterns/table-of-contents
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+1. https://app.pluralsight.com/library/courses/javascript-design-patterns/table-of-contents
+2. https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+
